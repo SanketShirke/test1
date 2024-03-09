@@ -2,3 +2,7 @@ git init
 git status
 git clone 
 git remote -v 
+
+git remote -v 
+gire remote set-url 
+git remote set-url --add 
